@@ -9,3 +9,9 @@ Dataset: (Kaggle dataset)
 https://www.kaggle.com/sartajbhuvaji/brain-tumor-classification-mri
 the dataset folder contains MRI data. The images are already split into Training and Testing folders.
 Each folder has more four subfolders. These folders have MRIs of respective tumor classes.
+
+Brain_tumor_detection file: It contains the actual code of deep learning model
+
+Presenting_tumor_model file: It contains code used for prestation using some jupyter notebook's widgets
+
+Upload_image file: it contains the code(Django Framework)of beutiful design for presentation
